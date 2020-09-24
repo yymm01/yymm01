@@ -1,11 +1,9 @@
 ## Albert Yang
 
 ### Profile
----
 * LG Electronics (2012 - 2020)
 
 ### profile2
----
 * test 1
 * test 2
 
