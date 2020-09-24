@@ -1,9 +1,8 @@
-## Yang
+## Albert Yang
 
 ### Profile
 ---
-* test 1
-* test 2
+* LG Electronics (2012 - 2020)
 
 ### profile2
 ---
