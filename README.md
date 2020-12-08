@@ -1,16 +1,16 @@
 # Albert Yang
-
-## Profile
+**update : 2020_12_08**
+>## Profile
 * Dongguk University
 * LG Electronics (2012 - 2020)
 
-## Skill
+>## Skill
 * C
 * C++
 * Python
 * Git
 
-## Role
+>## Role
 * BSP Touch Kernel Driver / Firmware
 * BSP Sensor Device Driver / HAL
 * BSP LED Device Driver / HAL
