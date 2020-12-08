@@ -1,11 +1,29 @@
 # Albert Yang
 
 ## Profile
+* Dongguk University
 * LG Electronics (2012 - 2020)
 
-## profile2
-* test 1
-* test 2
+## Skill
+* C
+* C++
+* Python
+* Git
+
+## Role
+* BSP Touch Kernel Driver / Firmware
+* BSP Sensor Device Driver / HAL
+* BSP LED Device Driver / HAL
+* Android Audio Framework
+* EAVB(Ethernet Audio Video Bridge)
+
+
+
+
+
+
+
+
 
 <!--
 **yymm01/yymm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
