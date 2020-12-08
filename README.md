@@ -10,7 +10,7 @@
 * Python
 * Git
 
->## Role
+>## Career
 * BSP Touch Kernel Driver / Firmware
 * BSP Sensor Device Driver / HAL
 * BSP LED Device Driver / HAL
